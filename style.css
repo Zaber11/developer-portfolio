@@ -12,7 +12,7 @@ h2 {
 }
 
 .orange-color {
-    color: orange;
+    color: rgb(238, 158, 9);
 }
 
 .flexible-container {
@@ -27,7 +27,7 @@ h2 {
 }
 
 .half-width img {
-    width: 400px;
+    width: 450px;
 }
 
 .link-button {
